@@ -1,0 +1,21 @@
+{
+  "name": "ANGELICA DIRA MODEL",
+  "logo": "ANGELICA DIRA MODEL",
+  "location": {
+    "street": "245 Park Ave",
+    "city": "San Francisco, CA 94087",
+    "country": "United States"
+  },
+  "email": "angelica.diraa@gmail.com",
+  "phone": "+52 492 290 2207",
+  "instagramUrl": "https://www.instagram.com/angelica_dira/",
+  "instagramHandle": "Instagram",
+  "copyright": "2026 © ANGELICA",
+  "bio": "Hi, I'm Angelica. I'm a Mexican fashion model based in San Francisco, working across editorial and runway. I love the craft of a beautiful image — and I bring elegance, poise, and a timeless presence to every shoot I'm part of.",
+  "details": [
+    { "label": "Height", "value": "5'9\"" },
+    { "label": "Eyes", "value": "Black" },
+    { "label": "Hair", "value": "Black" },
+    { "label": "Body", "value": "Curvy" }
+  ]
+}
