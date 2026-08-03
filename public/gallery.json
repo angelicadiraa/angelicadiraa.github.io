@@ -1,11 +1,5 @@
 [
   {
-    "src": "/images/gallery/l1020994.jpg",
-    "alt": "Angelica Dira fashion model editorial",
-    "caption": "",
-    "srcSet": "/images/gallery/l1020994-1280.jpg 1280w, /images/gallery/l1020994-640.jpg 640w"
-  },
-  {
     "src": "/images/gallery/angelica-dira-model-editorial-10.jpg",
     "alt": "Angelica Dira fashion model editorial",
     "caption": "",
@@ -84,16 +78,16 @@
     "srcSet": "/images/gallery/angelica-dira-model-editorial-11-1280.jpg 1280w, /images/gallery/angelica-dira-model-editorial-11-640.jpg 640w"
   },
   {
-    "src": "/images/gallery/angelica-dira-model-editorial-27.jpg",
-    "alt": "Angelica Dira fashion model editorial",
-    "caption": "",
-    "srcSet": "/images/gallery/angelica-dira-model-editorial-27-1280.jpg 1280w, /images/gallery/angelica-dira-model-editorial-27-640.jpg 640w"
-  },
-  {
     "src": "/images/gallery/angelica-dira-model-editorial-13.jpg",
     "alt": "Angelica Dira fashion model editorial",
     "caption": "",
     "srcSet": "/images/gallery/angelica-dira-model-editorial-13-1280.jpg 1280w, /images/gallery/angelica-dira-model-editorial-13-640.jpg 640w"
+  },
+  {
+    "src": "/images/gallery/l1020994.jpg",
+    "alt": "Angelica Dira fashion model editorial",
+    "caption": "",
+    "srcSet": "/images/gallery/l1020994-1280.jpg 1280w, /images/gallery/l1020994-640.jpg 640w"
   },
   {
     "src": "/images/gallery/angelica-dira-model-editorial-14.jpg",
